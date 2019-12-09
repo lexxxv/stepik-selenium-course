@@ -1,4 +1,4 @@
-# stepik-selenium-course
+п»ї# stepik-selenium-course
 Lessons from stepik selenium course
 
-Автоматизация тестирования с помощью Selenium и Python
+РђРІС‚РѕРјР°С‚РёР·Р°С†РёСЏ СЃ РїРѕРјРѕС‰СЊСЋ Selenium Рё Python
